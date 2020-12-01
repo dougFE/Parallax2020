@@ -1,3 +1,3 @@
 # Parallax2020
 
-Storage repo for all files transferred during the 2020 WARLORDS online hackaton.
+Collaboration repo for all files shared during the 2020 WARLORDS online hackaton.
